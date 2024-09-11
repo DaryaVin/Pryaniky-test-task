@@ -1,16 +1,16 @@
 # Описание проекта
 
-Данный проект является тестовым задание для организация Технологии защиты, ООО (проект [Pryaniky.com](https://pryaniky.com/)).
+Данный проект является тестовым задание для организации "Технологии защиты, ООО (проект [Pryaniky.com](https://pryaniky.com/))".
 Ссылка на [задание](https://docs.google.com/document/d/14NeOt5w16HgZKSJIIg-Kh9AiclFhX9Oq/edit?clckid=f5ec8820)
 
 # Техническая часть проекта
 
 Проект создан с помощью [Vite](https://vitejs.dev/).
-Стек используемых технологий: React + TypeScript
-При создание были использованы такие библиотеки, как: [Material UI](https://mui.com/), [Axios](https://axios-http.com/), [react-hook-form](https://react-hook-form.com/)
-Был использован стейт-менаджер [Redux Toolkit](https://redux-toolkit.js.org/)
-Версия ноды - v18.17.1
-При написании была использована архитектура [Feature-Sliced Design](https://feature-sliced.design/ru/)
+Стек используемых технологий: React + TypeScript.
+При создании были использованы такие библиотеки, как: [Material UI](https://mui.com/), [Axios](https://axios-http.com/), [react-hook-form](https://react-hook-form.com/).
+Был использован стейт-менеджер [Redux Toolkit](https://redux-toolkit.js.org/).
+Версия ноды - v18.17.1.
+При написании была использована архитектура [Feature-Sliced Design](https://feature-sliced.design/ru/).
 
 ## Available Scripts
 
@@ -34,7 +34,7 @@
 npm i
 ```
 
-После выполнете команду для запуска приложения:
+После выполните команду для запуска приложения:
 
 ```
 npm run dev
