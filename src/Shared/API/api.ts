@@ -1,8 +1,8 @@
 import axios from "axios";
 import Cookies from "js-cookie";
 
-export const HOST = "http://localhost:5000";
-// export const HOST = "https://test.v5.pryaniky.com";
+// export const HOST = "http://localhost:5000";
+export const HOST = "https://test.v5.pryaniky.com";
 
 export const urlEndpoints = {
   AUTH: {
